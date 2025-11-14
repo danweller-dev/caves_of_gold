@@ -1,24 +1,24 @@
-\# Caves of Gold -- KS3 Python Adventure Game
+# Caves of Gold -- KS3 Python Adventure Game
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-!\[Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-!\[Education](https://img.shields.io/badge/Educational-KS3%20Computing-orange.svg)
+![Education](https://img.shields.io/badge/Educational-KS3%20Computing-orange.svg)
 
-!\[License](https://img.shields.io/badge/License-MIT-green.svg)
-
-
-
-\## Overview
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
 
-\*\*Caves of Gold\*\* is a simple, text-based Python adventure game designed
+## Overview
 
-specifically for \*\*Key Stage 3 (KS3)\*\* learners. It introduces
+
+
+**Caves of Gold** is a simple, text-based Python adventure game designed
+
+specifically for **Key Stage 3 (KS3)** learners. It introduces
 
 fundamental programming concepts through an engaging scenario involving
 
@@ -26,7 +26,7 @@ exploration, traps, treasure, monsters, and turn-based combat.
 
 
 
-The game was intentionally built \*\*without functions\*\*, following the
+The game was intentionally built **without functions**, following the
 
 structure of typical KS3 Python schemes of work where functions have not
 
@@ -36,7 +36,7 @@ accessible for early programmers.
 
 
 
-\## Educational Purpose \& Background
+## Educational Purpose & Background
 
 
 
@@ -48,11 +48,11 @@ immersive way.
 
 
 
-In classroom use, I found that \*\*even the simplest game scenario
+In classroom use, I found that **even the simplest game scenario
 
 dramatically increased student engagement, focus, and lesson
 
-participation\*\*. Introducing a narrative --- no matter how basic ---
+participation**. Introducing a narrative --- no matter how basic ---
 
 increases motivation and improves the ratio of active learners versus
 
@@ -66,83 +66,83 @@ objectives, covering:
 
 
 
-\-   Inputs and outputs\\
+-   Inputs and outputs
 
-\-   Variables and assignments\\
+-   Variables and assignments
 
-\-   Arithmetic expressions\\
+-   Arithmetic expressions
 
-\-   Selection (`if`, `elif`, `else`)\\
+-   Selection (`if`, `elif`, `else`)
 
-\-   Iteration (`while` loops)\\
+-   Iteration (`while` loops)
 
-\-   Counters\\
+-   Counters
 
-\-   Boolean flags\\
+-   Boolean flags
 
-\-   Randomness\\
+-   Randomness
 
-\-   Managing program state\\
+-   Managing program state
 
-\-   Reading and understanding sequential code flow
-
-
-
-\## Features
+-   Reading and understanding sequential code flow
 
 
 
-\-   Explore randomly generated cave events\\
-
-\-   Fight 3 different monster types\\
-
-\-   Discover random treasure\\
-
-\-   Trigger traps with risk-adjusted damage\\
-
-\-   Find or loot 3 weapons, 3 armour types, and 3 potions\\
-
-\-   Use healing, power, and escape potions\\
-
-\-   Rest with a chance of healing --- or being harmed\\
-
-\-   Track HP, gold, battles won, potions held, and gear bonuses\\
-
-\-   Permadeath (game ends at 0 HP)\\
-
-\-   All stats displayed and updated each turn
+## Features
 
 
 
-\## Learning Objectives Covered (KS3)
+-   Explore randomly generated cave events
+
+-   Fight 3 different monster types
+
+-   Discover random treasure
+
+-   Trigger traps with risk-adjusted damage
+
+-   Find or loot 3 weapons, 3 armour types, and 3 potions
+
+-   Use healing, power, and escape potions
+
+-   Rest with a chance of healing --- or being harmed
+
+-   Track HP, gold, battles won, potions held, and gear bonuses
+
+-   Permadeath (game ends at 0 HP)
+
+-   All stats displayed and updated each turn
 
 
 
-\-   \*\*Sequence\*\*\\
-
-\-   \*\*Selection\*\*\\
-
-\-   \*\*Iteration\*\*\\
-
-\-   \*\*Variables\*\*\\
-
-\-   \*\*Input \& Output\*\*\\
-
-\-   \*\*Randomness\*\*\\
-
-\-   \*\*Counters \& State Tracking\*\*
+## Learning Objectives Covered (KS3)
 
 
 
-\## How to Run
+-   **Sequence**
+
+-   **Selection**
+
+-   **Iteration**
+
+-   **Variables**
+
+-   **Input & Output**
+
+-   **Randomness**
+
+-   **Counters & State Tracking**
 
 
 
-\### Windows:
+## How to Run
 
 
 
-&nbsp;   python caves\_of\_gold.py
+### Windows:
+
+
+
+&nbsp;   python caves_of_gold.py
 
 
 
@@ -150,23 +150,23 @@ or
 
 
 
-&nbsp;   py caves\_of\_gold.py
+&nbsp;   py caves_of_gold.py
 
 
 
-\### Mac / Linux:
+### Mac / Linux:
 
 
 
-&nbsp;   python3 caves\_of\_gold.py
+&nbsp;   python3 caves_of_gold.py
 
 
 
-\## Author
+## Author
 
 
 
-\*\*Dan Weller\*\*\\
+**Dan Weller**
 
 GitHub: https://github.com/danweller-dev
 
